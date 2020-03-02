@@ -1,0 +1,13 @@
+.header {
+    text-align: center;
+    position: sticky;
+}
+
+.software {
+    color: white;
+    margin: 0px;
+    padding: 20px;
+    font-family: "Segoe UI";
+    word-wrap: break-word;
+    width: 100%;
+}
